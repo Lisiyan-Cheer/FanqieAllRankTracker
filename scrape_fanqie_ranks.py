@@ -8,6 +8,22 @@ from playwright.sync_api import sync_playwright
 # ─────────────────────────────────────────────────────────────────────────────
 # LISTS — 四榜配置（所有榜单共用同一套 CHAR_SEQUENCE 解码表）
 # ─────────────────────────────────────────────────────────────────────────────
+
+# ─────────────────────────────────────────────────────────────────────────────
+# 目标抓取分类白名单（按频道过滤，剔除冷门/衍生/不写赛道）
+# ─────────────────────────────────────────────────────────────────────────────
+TARGET_CATEGORIES = {
+    "male": {
+        "都市脑洞", "历史脑洞", "历史古代", "都市日常", "都市种田",
+        "都市高武", "都市修真", "传统玄幻", "玄幻脑洞", "悬疑脑洞",
+        "悬疑灵异", "科幻末世",
+    },
+    "female": {
+        "古言脑洞", "宫斗宅斗", "古风世情", "年代", "种田",
+        "现言脑洞", "豪门总裁", "快穿", "青春甜宠", "科幻末世",
+    },
+}
+
 LISTS = {
     # key          中文名      榜单路由           file_key      color   icon
     "female_new": {
@@ -207,9 +223,16 @@ def run_single_list(list_key: str, limit: int = 30, sleep_sec: int = 5):
 
         print(f"[{ts()}] [✓] {list_name} · 自适应提取到 {len(unique_cats)} 个分类，开始抓取...")
 
+        channel = "male" if is_male else "female"
+        allowed_cats = TARGET_CATEGORIES.get(channel)
+
         for cat in unique_cats:
             cat_name = cat["name"]
             cat_href = cat["href"]
+
+            if allowed_cats and cat_name not in allowed_cats:
+                print(f"[{ts()}] [↷] {list_name} · 跳过非目标分类：{cat_name}")
+                continue
 
             if cat_name in completed_cats:
                 print(f"[{ts()}] [→] {list_name} · 跳过已完成的分类：{cat_name}")
