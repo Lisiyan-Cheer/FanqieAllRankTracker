@@ -152,7 +152,7 @@ def run_single_list(list_key: str, limit: int = 30, sleep_sec: int = 5):
     state_file = os.path.join(OUTPUT_DIR, f"task_state_{file_key}_{date_str}.json")
 
     # 判断是否男频
-    is_male = "male" in list_key
+    is_male = list_key.startswith("male")
 
     # ── 状态恢复逻辑 ──────────────────────────────────────────────────────────
     completed_cats = []
@@ -223,7 +223,7 @@ def run_single_list(list_key: str, limit: int = 30, sleep_sec: int = 5):
 
         print(f"[{ts()}] [✓] {list_name} · 自适应提取到 {len(unique_cats)} 个分类，开始抓取...")
 
-        channel = "male" if is_male else "female"
+        channel = "male" if list_key.startswith("male") else "female"
         allowed_cats = TARGET_CATEGORIES.get(channel)
 
         for cat in unique_cats:
