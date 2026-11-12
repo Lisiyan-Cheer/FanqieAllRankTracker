@@ -4,6 +4,78 @@
   "list_name": "女频新书榜",
   "category_reads": [
     {
+      "category": "豪门总裁",
+      "total_reads": 4438000,
+      "reads_str": "443.8万",
+      "book_count": 30,
+      "max_reads": 406000,
+      "min_reads": 71000,
+      "avg_reads": 147933
+    },
+    {
+      "category": "现言脑洞",
+      "total_reads": 2677000,
+      "reads_str": "267.7万",
+      "book_count": 30,
+      "max_reads": 312000,
+      "min_reads": 51000,
+      "avg_reads": 89233
+    },
+    {
+      "category": "年代",
+      "total_reads": 2434000,
+      "reads_str": "243.4万",
+      "book_count": 30,
+      "max_reads": 240000,
+      "min_reads": 40000,
+      "avg_reads": 81133
+    },
+    {
+      "category": "快穿",
+      "total_reads": 2367000,
+      "reads_str": "236.7万",
+      "book_count": 30,
+      "max_reads": 212000,
+      "min_reads": 39000,
+      "avg_reads": 78900
+    },
+    {
+      "category": "宫斗宅斗",
+      "total_reads": 2145000,
+      "reads_str": "214.5万",
+      "book_count": 30,
+      "max_reads": 264000,
+      "min_reads": 35000,
+      "avg_reads": 71500
+    },
+    {
+      "category": "青春甜宠",
+      "total_reads": 2133000,
+      "reads_str": "213.3万",
+      "book_count": 30,
+      "max_reads": 262000,
+      "min_reads": 18000,
+      "avg_reads": 71100
+    },
+    {
+      "category": "古言脑洞",
+      "total_reads": 2047000,
+      "reads_str": "204.7万",
+      "book_count": 30,
+      "max_reads": 550000,
+      "min_reads": 19000,
+      "avg_reads": 68233
+    },
+    {
+      "category": "古风世情",
+      "total_reads": 1169011,
+      "reads_str": "116.9万",
+      "book_count": 30,
+      "max_reads": 414000,
+      "min_reads": 8318,
+      "avg_reads": 38967
+    },
+    {
       "category": "科幻末世",
       "total_reads": 1013000,
       "reads_str": "101.3万",
@@ -11,6 +83,15 @@
       "max_reads": 121000,
       "min_reads": 16000,
       "avg_reads": 33767
+    },
+    {
+      "category": "种田",
+      "total_reads": 952000,
+      "reads_str": "95.2万",
+      "book_count": 30,
+      "max_reads": 75000,
+      "min_reads": 12000,
+      "avg_reads": 31733
     },
     {
       "category": "悬疑脑洞",
@@ -24,167 +105,167 @@
   ],
   "top_books": [
     {
-      "title": "国运求生：三岁萌娃排行第一咋啦",
-      "author": "大西瓜甜",
-      "category": "科幻末世",
-      "reads": 121000.0,
-      "reads_str": "12.1万",
-      "url": "https://fanqienovel.com/page/7694566339922365502"
+      "title": "上朝第一天，吃瓜自爆我女扮男装",
+      "author": "悠悠哉又哉",
+      "category": "古言脑洞",
+      "reads": 550000.0,
+      "reads_str": "55万",
+      "url": "https://fanqienovel.com/page/7681650827315907608"
     },
     {
-      "title": "诡异NPC：开局就当怪物妈",
-      "author": "梦在他方",
-      "category": "悬疑脑洞",
-      "reads": 101000.0,
-      "reads_str": "10.1万",
-      "url": "https://fanqienovel.com/page/7687219526882036760"
+      "title": "伪人作者穿古代，满朝文武皆素材",
+      "author": "春日渐",
+      "category": "古风世情",
+      "reads": 414000.0,
+      "reads_str": "41.4万",
+      "url": "https://fanqienovel.com/page/7676486220452482072"
     },
     {
-      "title": "星际军校：我们五个真的无害！",
-      "author": "又见祈",
-      "category": "科幻末世",
-      "reads": 75000.0,
-      "reads_str": "7.5万",
-      "url": "https://fanqienovel.com/page/7678029439699012632"
+      "title": "救命，网恋报复但加错人了怎么办",
+      "author": "鹤别青山",
+      "category": "豪门总裁",
+      "reads": 406000.0,
+      "reads_str": "40.6万",
+      "url": "https://fanqienovel.com/page/7654972861815196696"
     },
     {
-      "title": "盗笔：解雨臣捡了个想死的崽",
-      "author": "淮迟栖",
-      "category": "悬疑脑洞",
-      "reads": 69000.0,
-      "reads_str": "6.9万",
-      "url": "https://fanqienovel.com/page/7661673738508717080"
+      "title": "备用联系人",
+      "author": "绒绒冬眠期",
+      "category": "豪门总裁",
+      "reads": 385000.0,
+      "reads_str": "38.5万",
+      "url": "https://fanqienovel.com/page/7666468801357040665"
     },
     {
-      "title": "公路求生：老头乐拉来一车盗墓的",
-      "author": "噗噗葡萄干",
-      "category": "科幻末世",
-      "reads": 62000.0,
-      "reads_str": "6.2万",
-      "url": "https://fanqienovel.com/page/7685435505911008281"
+      "title": "老婆老婆馋老婆宠老婆夜夜想老婆",
+      "author": "蓝色卷心菜",
+      "category": "豪门总裁",
+      "reads": 339000.0,
+      "reads_str": "33.9万",
+      "url": "https://fanqienovel.com/page/7693846398373989438"
     },
     {
-      "title": "无限逃生：我的邻居是瓶邪黑花胖",
-      "author": "风晞",
-      "category": "悬疑脑洞",
-      "reads": 58000.0,
-      "reads_str": "5.8万",
-      "url": "https://fanqienovel.com/page/7688023396730293273"
+      "title": "装纯，每晚都有人发狠想她",
+      "author": "碧优",
+      "category": "现言脑洞",
+      "reads": 312000.0,
+      "reads_str": "31.2万",
+      "url": "https://fanqienovel.com/page/7694869945712135193"
     },
     {
-      "title": "开局拍卖，被四个哨兵强制契约了",
-      "author": "钓罢归来",
-      "category": "科幻末世",
-      "reads": 57000.0,
-      "reads_str": "5.7万",
-      "url": "https://fanqienovel.com/page/7694695984734948377"
+      "title": "清穿七福晋：七爷竟是恋爱脑",
+      "author": "糖糖8甜",
+      "category": "宫斗宅斗",
+      "reads": 264000.0,
+      "reads_str": "26.4万",
+      "url": "https://fanqienovel.com/page/7692334921091648536"
     },
     {
-      "title": "末世来临，养兄黑脸为我收舔狗",
-      "author": "黄金招财猫",
-      "category": "科幻末世",
-      "reads": 50000.0,
-      "reads_str": "5万",
-      "url": "https://fanqienovel.com/page/7663407747450276888"
+      "title": "社恐乖女网恋禁欲教授！撩爆他！",
+      "author": "挽云栖",
+      "category": "青春甜宠",
+      "reads": 262000.0,
+      "reads_str": "26.2万",
+      "url": "https://fanqienovel.com/page/7663398914296384536"
     },
     {
-      "title": "盗墓：夜夜入梦后深陷20修罗场",
-      "author": "听海风的雨",
-      "category": "悬疑脑洞",
-      "reads": 48000.0,
-      "reads_str": "4.8万",
-      "url": "https://fanqienovel.com/page/7683554529366789182"
+      "title": "那些被强取豪夺的娇软美人们",
+      "author": "我是小咪5151",
+      "category": "青春甜宠",
+      "reads": 249000.0,
+      "reads_str": "24.9万",
+      "url": "https://fanqienovel.com/page/7698052468755663896"
     },
     {
-      "title": "盗墓：谁家小祖宗写的日记这么野",
-      "author": "楚楚楚楚",
-      "category": "悬疑脑洞",
-      "reads": 46000.0,
-      "reads_str": "4.6万",
-      "url": "https://fanqienovel.com/page/7651917004034542617"
+      "title": "年代：亲姐换亲，冷面军长宠娇娇",
+      "author": "大黑瓜瓜",
+      "category": "年代",
+      "reads": 240000.0,
+      "reads_str": "24万",
+      "url": "https://fanqienovel.com/page/7685483625642462270"
     },
     {
-      "title": "公路求生我的金手指是盗笔铁三角",
-      "author": "妄夜将尽时",
-      "category": "科幻末世",
-      "reads": 44000.0,
-      "reads_str": "4.4万",
-      "url": "https://fanqienovel.com/page/7686533983441554456"
+      "title": "穿成强取豪夺哑巴男主的作精女友",
+      "author": "叶不鸿",
+      "category": "豪门总裁",
+      "reads": 229000.0,
+      "reads_str": "22.9万",
+      "url": "https://fanqienovel.com/page/7678746037451770905"
     },
     {
-      "title": "末日胖妞和她的魅魔升级系统",
-      "author": "深蓝悠悠",
-      "category": "科幻末世",
-      "reads": 44000.0,
-      "reads_str": "4.4万",
-      "url": "https://fanqienovel.com/page/7639384379311016985"
+      "title": "漂亮恶女，靠伪装财阀千金登顶",
+      "author": "桃花映酒",
+      "category": "豪门总裁",
+      "reads": 222000.0,
+      "reads_str": "22.2万",
+      "url": "https://fanqienovel.com/page/7670450395256212542"
     },
     {
-      "title": "在柯学世界被满级马甲争抢",
-      "author": "乔乔给你瞧瞧",
-      "category": "悬疑脑洞",
-      "reads": 43000.0,
-      "reads_str": "4.3万",
-      "url": "https://fanqienovel.com/page/7597122414366968894"
+      "title": "帝王娇宠，不做太子妃做皇后",
+      "author": "应雪泥",
+      "category": "古风世情",
+      "reads": 220000.0,
+      "reads_str": "22万",
+      "url": "https://fanqienovel.com/page/7680148815046773822"
     },
     {
-      "title": "宿舍求生，我能看到隐藏提示",
-      "author": "温酒煮西瓜",
-      "category": "悬疑脑洞",
-      "reads": 42000.0,
-      "reads_str": "4.2万",
-      "url": "https://fanqienovel.com/page/7624111692934286360"
+      "title": "快穿之炮灰不当了",
+      "author": "千金猫猫",
+      "category": "快穿",
+      "reads": 212000.0,
+      "reads_str": "21.2万",
+      "url": "https://fanqienovel.com/page/7692040323488287768"
     },
     {
-      "title": "天幕文，谁没事天天刷历史视频啊",
-      "author": "且随意",
-      "category": "科幻末世",
-      "reads": 37000.0,
-      "reads_str": "3.7万",
-      "url": "https://fanqienovel.com/page/7692096254590848025"
+      "title": "穿书：病弱真千金拿捏京圈太子爷",
+      "author": "福娃TT",
+      "category": "青春甜宠",
+      "reads": 210000.0,
+      "reads_str": "21万",
+      "url": "https://fanqienovel.com/page/7695766834523425817"
     },
     {
-      "title": "万人迷娇气包在无限恐游里当反派",
-      "author": "兽王呼呼",
-      "category": "悬疑脑洞",
-      "reads": 37000.0,
-      "reads_str": "3.7万",
-      "url": "https://fanqienovel.com/page/7691191766791228478"
+      "title": "京圈大小姐，被沪上掌权人盯上了",
+      "author": "泡芙小奶妈",
+      "category": "豪门总裁",
+      "reads": 196000.0,
+      "reads_str": "19.6万",
+      "url": "https://fanqienovel.com/page/7691013714924817470"
     },
     {
-      "title": "天灾末世：孤儿院四人帮全重生了",
-      "author": "瑾初心",
-      "category": "科幻末世",
-      "reads": 36000.0,
-      "reads_str": "3.6万",
-      "url": "https://fanqienovel.com/page/7695833323125361688"
+      "title": "夜半贪欢",
+      "author": "天难蓝",
+      "category": "豪门总裁",
+      "reads": 167000.0,
+      "reads_str": "16.7万",
+      "url": "https://fanqienovel.com/page/7619390047594220606"
     },
     {
-      "title": "末世经营，我绑定了瓶邪黑花",
-      "author": "蛋黄塔可",
-      "category": "科幻末世",
-      "reads": 34000.0,
-      "reads_str": "3.4万",
-      "url": "https://fanqienovel.com/page/7688314439937821758"
+      "title": "韩国高校：抢了室友王储未婚夫",
+      "author": "刺杀饼干",
+      "category": "青春甜宠",
+      "reads": 164000.0,
+      "reads_str": "16.4万",
+      "url": "https://fanqienovel.com/page/7690665216018746392"
     },
     {
-      "title": "宿舍求生：花钱雇佣诡异后躺赢了",
-      "author": "燕予猫",
-      "category": "悬疑脑洞",
-      "reads": 34000.0,
-      "reads_str": "3.4万",
-      "url": "https://fanqienovel.com/page/7690574344589691929"
+      "title": "快穿：恋爱脑男主，启动！",
+      "author": "金蔷月",
+      "category": "快穿",
+      "reads": 159000.0,
+      "reads_str": "15.9万",
+      "url": "https://fanqienovel.com/page/7624960532289686553"
     },
     {
-      "title": "病弱大小姐和她的丧尸小狗",
-      "author": "浅墨麻黄",
-      "category": "科幻末世",
-      "reads": 31000.0,
-      "reads_str": "3.1万",
-      "url": "https://fanqienovel.com/page/7690470844392295448"
+      "title": "欲爱不能",
+      "author": "遥玲",
+      "category": "豪门总裁",
+      "reads": 159000.0,
+      "reads_str": "15.9万",
+      "url": "https://fanqienovel.com/page/7613969299773852734"
     }
   ],
-  "total_categories": 2,
-  "total_books": 60,
+  "total_categories": 11,
+  "total_books": 330,
   "trend_7d": []
 }
