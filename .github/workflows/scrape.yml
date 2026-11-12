@@ -77,12 +77,12 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         # 安装 playwright（只在需要爬取时）
-        if [ "${{ steps.check_data.outputs.needs_scrape }}" = "true" ]; then
+        if [ "${{ steps.check_data.outputs.needs_scrape }}" = "true" ] || [ -n "${{ inputs.list_key }}" ]; then
           playwright install --with-deps chromium
         fi
 
     - name: Run Scraper (四榜顺序爬取)
-      if: steps.check_data.outputs.needs_scrape == 'true'
+      if: steps.check_data.outputs.needs_scrape == 'true' || inputs.list_key != ''
       run: |
         # 优先爬取缺失的榜单（列表中每项空格分隔）
         SCRAPE_LIST="${{ inputs.list_key }}"
