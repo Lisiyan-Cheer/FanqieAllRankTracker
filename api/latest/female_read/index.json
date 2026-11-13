@@ -1,26 +1,21 @@
 {
-  "date": "2026-11-12",
-  "prev_date": "2026-11-11",
+  "date": "2026-11-13",
+  "prev_date": "2026-11-12",
   "types": [
     {
       "type": "all",
       "url": "api/latest/female_read/all.json",
-      "category_count": 11,
-      "book_count": 330
-    },
-    {
-      "type": "科幻末世",
-      "url": "api/latest/female_read/%E7%A7%91%E5%B9%BB%E6%9C%AB%E4%B8%96.json",
-      "book_count": 30
-    },
-    {
-      "type": "悬疑脑洞",
-      "url": "api/latest/female_read/%E6%82%AC%E7%96%91%E8%84%91%E6%B4%9E.json",
-      "book_count": 30
+      "category_count": 10,
+      "book_count": 300
     },
     {
       "type": "古风世情",
       "url": "api/latest/female_read/%E5%8F%A4%E9%A3%8E%E4%B8%96%E6%83%85.json",
+      "book_count": 30
+    },
+    {
+      "type": "科幻末世",
+      "url": "api/latest/female_read/%E7%A7%91%E5%B9%BB%E6%9C%AB%E4%B8%96.json",
       "book_count": 30
     },
     {
