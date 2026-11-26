@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-25",
-  "prev_date": "2026-11-24",
+  "date": "2026-11-26",
+  "prev_date": "2026-11-25",
   "types": [
     {
       "type": "all",
       "url": "api/latest/female_new/all.json",
       "category_count": 10,
-      "book_count": 270
+      "book_count": 280
     },
     {
       "type": "古风世情",
@@ -16,12 +16,12 @@
     {
       "type": "科幻末世",
       "url": "api/latest/female_new/%E7%A7%91%E5%B9%BB%E6%9C%AB%E4%B8%96.json",
-      "book_count": 0
+      "book_count": 30
     },
     {
       "type": "种田",
       "url": "api/latest/female_new/%E7%A7%8D%E7%94%B0.json",
-      "book_count": 30
+      "book_count": 10
     },
     {
       "type": "年代",
